@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 # About Me
 My current main area of interests is JavaScript based web application development and I build high quality and UX-focused products for startups.
-
 As for product development and management, I follow lean startup method and love rapid iteration and hypothesis testing.
 
 Almost available for interviews and any other request which is related technology.
