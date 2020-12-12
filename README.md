@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Summary
-Experienced Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including React, Vue, Angular, Node.js, Python, PHP, PostgreSQL, Apache, and Nginx. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+Experienced Web Developer adept in all stages of advanced web development.
+Knowledgeable in user interface, testing, and debugging processes.
+Bringing forth expertise in design, installation, testing and maintenance of web systems.
+Equipped with a diverse and promising skill-set.
+Proficient in an assortment of technologies, including React, Vue, Angular, Node.js, Python, PHP, PostgreSQL, Apache, and Nginx.
+Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 # Tech Stack
 - React, Angular, Vue.js
