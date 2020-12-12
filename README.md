@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
-My current main area of interests is JavaScript based web application development and I build high quality and UX-focused products for startups.
-As for product development and management, I follow lean startup method and love rapid iteration and hypothesis testing.
-
-Almost available for interviews and any other request which is related technology.
+# Summary
+Experienced Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including React, Vue, Angular, Node.js, Python, PHP, PostgreSQL, Apache, and Nginx. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 # Tech Stack
 - React, Angular, Vue.js
