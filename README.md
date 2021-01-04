@@ -31,5 +31,3 @@ Able to effectively self-manage during independent projects, as well as collabor
 - PostgreSQL, MySQL, MongoDB, Cassandra, Neo4j
 - Docker, Heroku, Kubernetes, AWS
 
-# Contact
-   [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:grityangel@gmail.com)](mailto:grityangel@gmail.com)
